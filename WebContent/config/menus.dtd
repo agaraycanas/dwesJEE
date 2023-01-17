@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT menus (menu*)>
+
+<!ELEMENT menu (#PCDATA)>
+	<!ATTLIST menu
+		id CDATA #REQUIRED
+		idp CDATA #REQUIRED
+		etiqueta CDATA #REQUIRED
+		accion CDATA #REQUIRED
+	>			

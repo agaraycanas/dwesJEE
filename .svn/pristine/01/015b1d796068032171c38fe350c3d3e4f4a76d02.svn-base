@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE menus:configuration PUBLIC "menus.dtd" "menus.dtd">
+<menus>
+	<menu id="1" idp="0" etiqueta="Persona" accion="" />
+	<menu id="2" idp="1" etiqueta="Crear" accion="persona/crear" />
+	<menu id="3" idp="1" etiqueta="Listar" accion="persona/listar" />
+	<menu id="4" idp="0" etiqueta="Color" accion="" />
+	<menu id="5" idp="4" etiqueta="Crear" accion="color/crear" />
+	<menu id="6" idp="4" etiqueta="Listar" accion="color/listar" />
+</menus>
